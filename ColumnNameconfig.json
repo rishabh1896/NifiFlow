@@ -1,0 +1,15 @@
+{
+	"tweets":{
+	"columnName":"auto_inc_id",
+	"lastMaxValue":"29510276"
+	},
+	"sample":{
+	"columnName":"auto_inc",
+	"lastMaxValue":"0"
+	},
+	"TwitterURL":{
+		"columnName":"id",
+		"lastMaxValue":"26115055408"
+	}
+	
+}
